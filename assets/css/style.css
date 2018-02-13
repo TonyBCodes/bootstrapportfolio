@@ -27,7 +27,8 @@ p{
 }
 
 #topbox{
-    width: 950px;
+    margin auto 0px;
+    height: 100px;
 }
 
 /* .clearfix::after{ */
@@ -53,10 +54,18 @@ img{
 }
 
 .carimg{
-    width: 100%;
+    margin: 0 auto;
     height: 400px;
     max-height: 400px;
     align-content: center;
+}
+
+#contact{
+    border-left: 3px solid gray;
+}
+
+#bttnpad{
+    margin-top:8px;
 }
 
 #ftrcntnr{
